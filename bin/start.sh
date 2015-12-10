@@ -49,7 +49,7 @@ else
     exit 1
 fi
 
-function startJStorm()
+startJStorm()
 {
 	PROCESS=$1
   echo "start $PROCESS"
